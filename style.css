@@ -50,6 +50,20 @@ body {
       -ms-transform: translate(-50%, -50%) skew(30deg);
           transform: translate(-50%, -50%) skew(30deg);
 }
+
+
+.logo #search {
+  position: absolute;
+  top: 50%;
+  height: 240px;
+  -webkit-transform: translate(-50%, -50%) skew(30deg);
+      -ms-transform: translate(-50%, -50%) skew(30deg);
+          transform: translate(-50%, -50%) skew(30deg);
+}
+
+
+
+
 .logo.left {
   right: 50%;
 }
