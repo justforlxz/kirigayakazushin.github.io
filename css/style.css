@@ -45,7 +45,7 @@ font-family: 'microsoft yahei',Arial,sans-serif;
 
 /* additional sections */
 #home {
-  background: url(http://h.hiphotos.baidu.com/zhidao/pic/item/5ab5c9ea15ce36d3c224f6fd38f33a87e850b1de.jpg) no-repeat center center fixed; 
+  background: url(../images/home.jpg) no-repeat center center fixed; 
   display: table;
   height: 100%;
   position: relative;
