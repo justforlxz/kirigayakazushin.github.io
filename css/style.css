@@ -76,7 +76,7 @@ font-family: 'microsoft yahei',Arial,sans-serif;
 }
 
 #information {
-  background: url(http://d.5857.com/dmrw_131028/001.jpg) no-repeat center center fixed; 
+  background: url(../images/001.jpg) no-repeat center center fixed; 
   display: table;
   height: 800px;
   position: relative;
